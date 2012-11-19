@@ -24,4 +24,4 @@ EPUBの最新仕様はEPUB 3.0です。IMAGEDRIVEさんが翻訳されていま�
 * [EPUB 3 仕様書・関連文書日本語訳一覧](http://blog.imagedrive.jp/epub3)
 
 ### コンタクト ###
-管理者は[@lost_and_found](https://twitter.com/lost_and_found) (a.k.a. ろす)です。コンタクトはツイッターまたはメールにてお願いします。 メールアドレスは itshustletime¥[あっと まーく¥]gmail.com です（[あっとまーく]を@に読みかえてください）。
+管理者は[@lost_and_found](https://twitter.com/lost_and_found) (a.k.a. ろす)です。コンタクトはツイッターまたはメールにてお願いします。 メールアドレスは itshustletime[あっと まーく]gmail.com です（[あっとまーく]を@に読みかえてください）。
